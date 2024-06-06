@@ -1,3 +1,10 @@
 
 .icon-basket:before { content: '\e800'; } /* '' */
+.icon-avadabarbers-beardtrim-icon:before { content: '\e80b'; } /* '' */
+.icon-avadabarbers-trimcut-icon-before:before { content: '\e80c'; } /* '' */
+.icon-avadabarbers-washndry-icon:before { content: '\e80d'; } /* '' */
+.icon-x-twitter:before { content: '\e80e'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
 .icon-menu:before { content: '\f0c9'; } /* '' */
+.icon-youtube-play:before { content: '\f16a'; } /* '' */
+.icon-instagram:before { content: '\f16d'; } /* '' */
