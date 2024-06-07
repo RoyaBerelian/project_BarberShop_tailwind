@@ -3,17 +3,17 @@
 @tailwind utilities;
 
 @layer base {
-    @font-face {
-      font-family: 'Arbil fatface';
-      font-style: normal;
-      font-weight: 400;
-      font-display: swap;
-      src: url(../font/AbrilFatface-Regular.ttf) format('ttf');
-    }
+  @font-face {
+    font-family: 'Arbil fatface';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../font/AbrilFatface-Regular.ttf) format('ttf');
   }
+}
 
 .row{
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
 }
